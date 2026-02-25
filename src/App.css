@@ -1,0 +1,45 @@
+/*bfa1b0ecc5e24a73ba055429262502 */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #2f94c6;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: 0;
+}
+
+.app {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.card {
+  margin-top: 20px;
+  padding: 20px;
+  width: 300px;
+  background: rgb(19, 7, 7);
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  color: white;  
+}
+
+
+/*//⛅
