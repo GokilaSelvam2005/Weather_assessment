@@ -8,7 +8,6 @@ body {
   display: flex;
   padding: 0;
 }
-
 .app {
   height: 100vh;
   display: flex;
@@ -17,7 +16,6 @@ body {
   align-items: center;
   text-align: center;
 }
-
 button {
   padding: 10px 15px;
   background-color: #007bff;
@@ -26,11 +24,9 @@ button {
   border-radius: 5px;
   cursor: pointer;
 }
-
 button:hover {
   background-color: #0056b3;
 }
-
 .card {
   margin-top: 20px;
   padding: 20px;
